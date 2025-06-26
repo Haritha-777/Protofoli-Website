@@ -1,0 +1,169 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.message-box {
+    width: 197px;
+    height: 72px;
+    top: 300px;
+    left: 269px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    background-image: linear-gradient(to right, #32F6F6, #A6A79F);
+    border-style: none;
+    font-weight: bold;
+    color: white;
+    font-size: 30px;
+}
+
+.person {
+    font-family: Segoe UI;
+    font-weight: 600;
+    font-size: 64px;
+}
+
+.name {
+    text-decoration: underline;
+}
+
+.about-profession {
+    font-family: Segoe UI;
+    font-weight: 300;
+    font-size: 30px;
+    color: #00000;
+}
+
+.touch-button {
+    Width: 175px;
+    height: 60px;
+    top: 649px;
+    left: 469px;
+    border-radius: 10px;
+    border: 3px;
+    background-image: linear-gradient(to right, #434343, #000000);
+    color: #FEFEFE;
+    box-shadow: 0px 10px 25px 0px #00000040;
+    border-style: solid;
+    border-color: white;
+    border-width: 3px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.download-button {
+    Width: 175px;
+    height: 60px;
+    top: 649px;
+    left: 469px;
+    border-radius: 10px;
+    border: 3px;
+    background-image: linear-gradient(to right, #DF580C, #FD993D);
+    color: #FEFEFE;
+    border-style: solid;
+    border-color: white;
+    border-width: 3px;
+    font-size: 20px;
+    font-weight: bold;
+    box-shadow: 0px 10px 25px 0px #00000040;
+}
+
+.background {
+    width: 330px;
+    height: 320px;
+    background-color: #fff500;
+    border-top-right-radius: 140px;
+    border-bottom-right-radius: 140px;
+    border-bottom-left-radius: 220px;
+    border-top-left-radius: 220px;
+}
+
+.email {
+    writing-mode: vertical-rl;
+    margin-left: 200px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.details {
+    font-family: Segoe UI;
+    font-weight: 300;
+    font-size: 20px;
+    margin-right: 50px;
+}
+
+.working-details {
+    font-family: Segoe UI;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.explain-about {
+    font-family: Segoe UI;
+    font-weight: 600;
+    font-size: 64px;
+}
+
+.explain-about-work {
+    font-family: Segoe UI;
+    font-weight: 600;
+    font-size: 36px;
+}
+
+.horizontal-line {
+    border: 1px solid #000000;
+    margin-left: 250px;
+    margin-right: 100px;
+    margin-bottom: 30px;
+}
+
+
+.footer-horizontal-line {
+    border: 1px solid #000000;
+    margin-left: 250px;
+    margin-right: 300px;
+    margin-top: 100px;
+    margin-bottom: 200px;
+}
+
+.email-down-line {
+    width: 30px;
+    color: black;
+}
+
+.details-section {
+    margin-top: 180px;
+    margin-left: 30px;
+    background-color: white;
+    padding: 30px;
+    height: 100vh;
+}
+
+.image-section {
+    margin-top: 250px;
+    margin-left: 80px;
+}
+
+.hand-gesture {
+    margin-top: 100px;
+}
+
+.email-down-line {
+    width: 30px;
+    color: black;
+}
+
+.name-navbar {
+    font-family: Segoe UI;
+    font-weight: 700;
+    font-size: 25px;
+    color: #000000;
+}
+
+.nav-items {
+    font-weight: 500;
+}
+
+.dark-mode {
+    background-color: black !important;
+    color: white !important;
+}
